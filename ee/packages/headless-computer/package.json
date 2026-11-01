@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "freestyle": "0.2.13",
-    "zod": "^4.3.6",
+    "zod": "^4.6.6",
     "@openwork/sandbox": "workspace:*",
     "@openwork/sandbox-freestyle": "workspace:*",
     "@openwork/sandbox-daytona": "workspace:*"
