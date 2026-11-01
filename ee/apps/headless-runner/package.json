@@ -28,7 +28,7 @@
     "@vercel/blob": "^2.8.0",
     "aws4fetch": "1.0.20",
     "hono": "4.13.9",
-    "zod": "^4.3.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
